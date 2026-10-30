@@ -5,3 +5,4 @@
 ## Модули
 - classification.py — классификация
 - regression.py — регрессия
+- compute.py — вычисление метрик
